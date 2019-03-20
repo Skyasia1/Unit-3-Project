@@ -1,0 +1,50 @@
+.category1{
+    color:blue;
+    background-color:black;
+}
+.category2{
+    color:purple;
+    background-color:black;
+}
+.category3{ 
+    color:pink;
+    background-color:black;
+}
+.category4{
+    color:red;
+    background-color:black;
+}
+.image1{
+    width:300px;
+}
+.image2{
+    width:300px;
+}
+.image3{
+    width:300px;
+}
+.image4{
+    width:300px;
+}
+
+.text1{
+    color:purple;
+}
+.text2{
+    color:purple;
+}
+.text3{
+    color:purple;
+}
+.text4{
+    color:purple;
+}
+body{ 
+  background-color:pink;
+}
+h2{ 
+    color:black;
+}
+ul{
+    color:red;
+}
